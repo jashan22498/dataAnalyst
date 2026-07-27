@@ -198,7 +198,7 @@ Excel dashboard analyzing retail store sales performance.
 
 - GitHub: https://github.com/jashan22498
 - LinkedIn: https://www.linkedin.com/in/jashangill2002/
-- Portfolio: https://jashan22498.github.io/jashanGill.github.io/
+- Portfolio: https://jashan22498.github.io/JashanTheAnalyst.github.io/
 
 ---
 
